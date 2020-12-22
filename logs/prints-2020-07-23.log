@@ -1,0 +1,8 @@
+23:21:02.462 [main] INFO  resources.Base - Navigated to Homepage 
+15:59:18.694 [main] INFO  resources.Base - Restricted User
+15:59:30.698 [main] INFO  resources.Base - Non Restricted User
+15:59:52.920 [main] INFO  resources.Base - NavBar checking done successfully 
+15:59:56.015 [main] INFO  resources.Base - Driver Initialized successfully
+16:00:07.364 [main] INFO  resources.Base - Navigated to Homepage 
+16:23:31.845 [TestNG-tests-3] INFO  resources.Base - Driver Initialized successfully
+16:24:16.924 [TestNG-tests-3] INFO  resources.Base - Navigated to Homepage 

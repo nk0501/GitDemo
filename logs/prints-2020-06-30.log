@@ -1,0 +1,8 @@
+15:33:32.119 [main] INFO  resources.Base - Restricted User
+15:33:47.725 [main] INFO  resources.Base - Non Restricted User
+15:33:58.184 [main] INFO  resources.Base - NavBar checking done successfully 
+15:34:05.421 [main] INFO  resources.Base - Driver Initialized successfully
+15:34:16.779 [main] INFO  resources.Base - Navigated to Homepage 
+15:34:16.826 [main] INFO  resources.Base - Checking done successfully 
+15:43:02.259 [main] INFO  resources.Base - Restricted User
+15:43:17.008 [main] INFO  resources.Base - Non Restricted User
